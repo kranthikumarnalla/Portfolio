@@ -171,7 +171,6 @@ This design harmoniously combines modern architectural principles with functiona
 
 **Tech Stack:** Remote sensing(RS),Geographic information system (GIS)
 
-# Bachelors_project_D
 
 # APPLICATIONS OF REMOTE SENSING AND BEST MANAGEMENT PRACTISE METHODSFOR FLOOD CONTROL MANAGEMENT IN FLOOD PRONE AREAS OF VIJAYAWADA
 

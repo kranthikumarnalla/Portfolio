@@ -7,7 +7,7 @@
 ## 🗂️ Projects
 [**Residential_project_A**](https://github.com/kranthikumarnalla/Residential_project_A)
 
- It  was a full interior design for a clients single detched home
+ It  was a full interior design for a clients single detached home
  
 **Tech Stack:** Autocad 2d, Sketchup 3d, vrey, Enscape, Photoshop
 
@@ -84,6 +84,8 @@ Ultimately, space design is an ongoing dialogue—between form and function, and
  Full exterior design of a client single detached home
  
 **Tech Stack:** Autocad 2d, Sketchup 3d, vrey, Enscape, Photoshop
+
+
 ![Residential_project_C](images/3-1.jpeg)
 
 
@@ -176,6 +178,7 @@ This design harmoniously combines modern architectural principles with functiona
 Flow direction in study area:
 
 ![Bachelores_project_D](images/4-1.jpeg)
+![Bachelores_project_D](images/4-3.jpeg)
 
 Abstract:
 
@@ -190,11 +193,9 @@ Result:
 
 By considering the 5 available BMP’s, we are choosing RAIN BARRELS because the soil type is clay which takes long time to penetrate the water itself by which we can’t reduce the flood rate. Bio Retention type BMP is used in the fields and to construct the Infiltration Trenches, the place is not sufficiently available. Vegetated roofs are in practice in day to day life but not enough efficient to control the flood. Finally based on the based on the Soil condition, Density of Population, Land use / Land Cover Data,Type of Rain Fall, Climate, Amount of Rain Fall, Availability of land RAIN BARRELS is choosed as the best suitable BMP for that area.
 
-![Bachelores_project_D](images/4-3.jpeg)
 
 
 ## 🎓 Education
-
 
 ### B.TECH. Civil Engineering| Jawaharlal Nehru Technological University | India | Aug 2016 – May 2020
 **Focus:** Building Planning & Control, Operations & Research, Industrial Engineering Management

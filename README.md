@@ -1,14 +1,14 @@
-## 📍Emden, Germany
-✉️ [Email: Sai-Swaroop.Gali@outlook.com](mailto:Sai-Swaroop.Gali@outlook.com)
+## 📍India
+✉️ [Email: kranthikumarnalla@outlook.com](mailto:kranthikumarnalla@outlook.com)
 
 🔗 [LinkedIn: Sai Swaroop Gali](https://www.linkedin.com/in/sai-swaroop-gali/)  👨‍💻 [GitHub: Sai Swaroop Gali](https://github.com/SaiSwaroop-Gali)
 
 ## 🗂️ Projects
-[**Spotify Data pipeline (ETL)**](https://github.com/SaiSwaroop-Gali/Spotify-E-T-L-Pipeline)
+[**Spotify Data pipeline (ETL)**](https://github.com/kranthikumarnalla/Residential_project_A)
 
 **Tech Stack:** Python, AWS (Lambda, Cloud watch, S3, Trigger, Crawler, Glue, Athena)
 
-![Spotify ETL](assets/Spotify-ETL.jpeg)
+![Spotify ETL](images/1-1.jpeg)
 
 ![Spotify ETL](assets/Snowflake.png)
 

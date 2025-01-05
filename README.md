@@ -1,3 +1,4 @@
+![kranthi](images/1-1.jpeg)
 ## 📍India
 ✉️ [Email: kranthikumarnalla@outlook.com](mailto:kranthikumarnalla@outlook.com)
 

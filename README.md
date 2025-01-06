@@ -1,8 +1,3 @@
-
-![Banner](images/myprofilebanner.gif)
-
-
-
 ## 📍India
 ✉️ [Email: kranthikumarnalla@outlook.com](mailto:kranthikumarnalla@outlook.com)
 

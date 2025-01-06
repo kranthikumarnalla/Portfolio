@@ -1,5 +1,5 @@
 
-![Banner](images/https://github.com/kranthikumarnalla/Portfolio/blob/main/images/my%20profile%20banner.gif)
+![Banner](images/myprofilebanner.gif)
 
 
 

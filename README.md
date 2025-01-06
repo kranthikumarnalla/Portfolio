@@ -5,7 +5,7 @@
 )  👨‍💻 [GitHub:kranthi kumar nalla](https://github.com/kranthikumarnalla)
 
 ## 🗂️ Projects
-[**Residential_project_A**](https://github.com/kranthikumarnalla/Residential_project_A)
+# [**Residential_project_A**](https://github.com/kranthikumarnalla/Residential_project_A)
 
  It  was a full interior design for a clients single detached home
  
@@ -13,10 +13,9 @@
 
 ![Residential_project_A](images/1-1.jpeg)
 
-
 ![Residential_project_A](images/1-2.jpeg)
 
- # BRIEF
+### BRIEF
  
 Project- House design
 
@@ -47,22 +46,17 @@ Design Approach:
 This project stands as a testament to thoughtful architectural design, where form and function converge to enhance residential living quality.
 
 
+# [**Condominium_project_B**](https://github.com/kranthikumarnalla/Condominium_project_B)
 
+SPACE DESIGN 
 
+I enjoy the challenge of transformation a space into something fresh and engaging
 
-[**Condominium_project_B**](https://github.com/kranthikumarnalla/Condominium_project_B)
-
-# SPACE DESIGN 
-
- I enjoy the challenge of transformation a space into something fresh and engaging
-
- 
 **Tech Stack:** Sketchup 3d,Enscape, Photoshop
 
 ![Condominium_project_B](images/2-1.jpeg)
-
  
-# BRIFE
+### BRIEF
  
  Engaging the Concept of Space Design in Interior Design
 
@@ -79,7 +73,7 @@ This project stands as a testament to thoughtful architectural design, where for
 Ultimately, space design is an ongoing dialogue—between form and function, and what’s seen and felt. In this conversation, dark accents convey a timeless expression.
 
 
-[**Residential_project_C**](https://github.com/kranthikumarnalla/Residential_project_C)
+# [**Residential_project_C**](https://github.com/kranthikumarnalla/Residential_project_C)
 
  Full exterior design of a client single detached home
  
@@ -92,12 +86,10 @@ Ultimately, space design is an ongoing dialogue—between form and function, and
 ![Residential_project_C](images/3-2.png)
 
 
- #  CONCEPT
- An exterior design with a theme of contemporary and dark accents.
-
-  
-  
- #   BRIEF 
+### CONCEPT
+An exterior design with a theme of contemporary and dark accents.
+ 
+###   BRIEF 
  
 Project- House exterior design,
 
@@ -167,28 +159,27 @@ This design harmoniously combines modern architectural principles with functiona
 
 
  
-[**Bachelores_project_D**](https://github.com/kranthikumarnalla/Bachelors_project_D)
+# [**Bachelores_project_D**](https://github.com/kranthikumarnalla/Bachelors_project_D)
 
 **Tech Stack:** Remote sensing(RS),Geographic information system (GIS)
 
-
-# APPLICATIONS OF REMOTE SENSING AND BEST MANAGEMENT PRACTISE METHODSFOR FLOOD CONTROL MANAGEMENT IN FLOOD PRONE AREAS OF VIJAYAWADA
+## APPLICATIONS OF REMOTE SENSING AND BEST MANAGEMENT PRACTISE METHODSFOR FLOOD CONTROL MANAGEMENT IN FLOOD PRONE AREAS OF VIJAYAWADA
 
 Flow direction in study area:
 
 ![Bachelores_project_D](images/4-1.jpeg)
 ![Bachelores_project_D](images/4-3.jpeg)
 
-Abstract:
+### Abstract:
 
 A flood is an overflow of water that submerges land when severe rainfall occurs.The flooding may occur as an over flow of water by heavy rainfall/snow storms/ water bodies such as rivers or lakes in which the water overtops and may result in some of that water escaping its usual boundaries. Floods cause severe damage to the infrastructure and human beings, if they occur in upslope areas and as catastrophic events. Some floods develop slowly, while others can occur in just 
 a few minutes. Additionally, floods can be local, imparting a neighborhood or community, or very large, affecting entire river basin. However, the most affected areas by the floods are urban areas because of rapid urbanization. Floods in the urban areas can be controlled by using the best management practices (BMP’S), since they are highly effective and economic approaches to control the damages occurring by floods in urban areas. Hence a study is carried in Vijayawada,which is a major town of Andhra Pradesh after bifurcation. For the same, we utilized remote sensing and GIS datasets to find out the inundation zones and thus explored the suitable BMP’S to mitigate the flood. Among all the methods, the with moderate porosity characteristics are highly recommended for this region to avoid the floods
 
-Overall methodology:
+### Overall methodology:
 
 ![Bachelores_project_D](images/4-2.jpeg)
 
-Result:
+### Result:
 
 By considering the 5 available BMP’s, we are choosing RAIN BARRELS because the soil type is clay which takes long time to penetrate the water itself by which we can’t reduce the flood rate. Bio Retention type BMP is used in the fields and to construct the Infiltration Trenches, the place is not sufficiently available. Vegetated roofs are in practice in day to day life but not enough efficient to control the flood. Finally based on the based on the Soil condition, Density of Population, Land use / Land Cover Data,Type of Rain Fall, Climate, Amount of Rain Fall, Availability of land RAIN BARRELS is choosed as the best suitable BMP for that area.
 

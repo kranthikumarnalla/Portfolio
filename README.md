@@ -39,7 +39,7 @@ Advanced 3D modeling tools (SketchUp, V-Ray, Enscape) ensured precise design and
 
 # [**Condominium_project_B**](https://github.com/kranthikumarnalla/Condominium_project_B)
 
-SPACE DESIGN 
+### SPACE DESIGN 
 
 I enjoy the challenge of transformation a space into something fresh and engaging
 

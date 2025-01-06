@@ -52,12 +52,12 @@ I enjoy the challenge of transformation a space into something fresh and engagin
  Engaging the Concept of Space Design in Interior Design
 
 
-• Interior design is about crafting experiences, not just arranging furniture. In my recent project, dark accents anchored the design, adding elegance and mystery without overwhelming the space. These tones 
+- Interior design is about crafting experiences, not just arranging furniture. In my recent project, dark accents anchored the design, adding elegance and mystery without overwhelming the space. These tones 
   highlighted textures and created a dynamic balance between light and shadow, offering both calm and sophistication.
 
-• Balance is key in design—how elements interact and align with functionality. Subtle contrasts, like soft lighting against dark hues, elevated the space and created a captivating atmosphere.
+- Balance is key in design—how elements interact and align with functionality. Subtle contrasts, like soft lighting against dark hues, elevated the space and created a captivating atmosphere.
 
-• Using tools like SketchUp, V-Ray, and Enscape, I brought this vision to life with realistic renderings that showcased the interplay of textures, light, and shadow.
+- Using tools like SketchUp, V-Ray, and Enscape, I brought this vision to life with realistic renderings that showcased the interplay of textures, light, and shadow.
   Ultimately, space design is a dialogue between form, function, and feeling, with dark accents serving as a timeless expression.
 
 

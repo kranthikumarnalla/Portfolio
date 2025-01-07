@@ -19,7 +19,7 @@
  
 Project- House design
 
-Area-288 sq. m plot, 
+Area-1724 sq.feet plot, 
 
 location-vijayawada.
 
@@ -81,7 +81,7 @@ An exterior design with a theme of contemporary and dark accents.
  
 Project- House exterior design,
 
-Area-400 sq.m plot,
+Area-4356 sq. feet plot,
 
 Location-Hyderabad. 
 
